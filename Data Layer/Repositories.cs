@@ -13,6 +13,5 @@ namespace NTierExample.Data.Repositories
         {
             return new Barista();
         }
-
     }
 }
